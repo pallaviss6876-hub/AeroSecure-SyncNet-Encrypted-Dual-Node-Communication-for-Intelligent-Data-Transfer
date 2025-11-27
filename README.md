@@ -1,0 +1,2 @@
+# AeroSecure-SyncNet-Encrypted-Dual-Node-Communication-for-Intelligent-Data-Transfer
+A secure ESP32-based system that encrypts radar data using AES and sends it wirelessly over UDP. The receiver ESP32 decrypts the data and displays results such as minimum, maximum, and average distance on an LCD. The project demonstrates secure IoT communication, data processing, and real-time display integration using embedded hardware.
