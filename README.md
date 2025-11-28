@@ -64,20 +64,4 @@
 - Google Colab (Cloud data analysis + visualization)  
 - CSV data processing tools  
 
----
 
-## 📂 Project Structure
-
-```text
-📦 AeroSecure-SyncNet
- ┣ 📂 src
- ┃ ┣ sender.ino                 # Sender ESP32 firmware
- ┃ ┗ receiver.ino               # Receiver ESP32 firmware
- ┣ 📂 cloud
- ┃ ┗ AeroSecure_CloudAnalysis.ipynb   # Google Colab notebook for cloud processing & visualization
- ┣ 📂 output
- ┃ ┗ output.csv                 # Logged radar data for analysis
- ┣ 📂 documentation
- ┃ ┣ hardware_setup.png         # Optional: images, circuit diagrams
- ┃ ┗ cloud_dashboard.png        # Optional: screenshot of cloud result
- ┗ README.md
